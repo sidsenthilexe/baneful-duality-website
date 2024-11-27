@@ -1,2 +1,2 @@
-Website for our submission at Counterspell Silicon Valley 2024.
-Game is still in progress.
+Basic website for our submission at Counterspell Silicon Valley 2024, made with HTML and CSS. Nothing crazy, just a working product that serves its purpose.
+Game is still in progress. Once done, will try to make a playable embed in this site.
